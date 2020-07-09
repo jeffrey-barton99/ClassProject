@@ -6,7 +6,7 @@ Paragraph 1 of text.
 Next Paragraph.
 
 ## Headline lower down
-Emphasis *is* **fun** ~strike through~, _underline_.
+Emphasis *is* **fun** ~strike through~.
 `Console.WriteLine("Test");`
 everythig inside a "``" is rendered as code
 
